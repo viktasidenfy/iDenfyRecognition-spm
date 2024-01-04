@@ -3,19 +3,19 @@
 
 import PackageDescription
 
-let version = "8.3.0.6"
+let version = "8.3.0.7"
 
 enum Checksums {
-    static let iDenfyInternalLoggerChecksum = "9c921e6b9cf26b3838914d2cb78b66d4090cd97686ef51bd13faa7a026479940"
-    static let iDenfyDocRecognitionChecksum = "5e3eb0fb3dc97a9ffc1adf70112fa65dc20c883b42eb43183f35a3ec46d8dac3"
-    static let idengineChecksum = "9228659534373aef79b21a7ebda6beb87ad81ef98930455e022e2fdf580dbbf3"
-    static let FaceTecSDKChecksum = "2e957427f3c6befebbdc67714aff2623d6ca72363591080749121897acef12b5"
-    static let iDenfyLivenessChecksum = "5a937c13bc1fe960199ab3d5063a72f8c006fbbf91cdc46a27b1afb894b5af95"
-    static let idenfyviewsChecksum = "bf23f4f515f8e72856381e7e4c3289e2242359011d7fbdc1e9519e7eb12a569f"
-    static let iDenfySDKChecksum = "4443d0a37e0cbda11f5664df07bcf51ee10ef94d756d9f667359e2a6a762ac73"
-    static let idenfycoreChecksum = "c3cbb88cb9e12de4dce9f0f6a52afad533d0a0e0adf1ce785dd2eaa086b20f1f"
-    static let idenfyNFCReadingChecksum = "abc718da985c94b0610e24ef5705ddedc664c6fa550a31f515b8265a481f34b0"
-    static let openSSLChecksum = "7bd7bc98914257b05cb68c479af28d3cace03c0b3cb1369f07e92c0f1461c131"
+    static let iDenfyInternalLoggerChecksum = "da9c9adecc0724eb2a1bef4299d7d7c9b53a8f7e17961f94b43d19cfa01f875a"
+    static let iDenfyDocRecognitionChecksum = "754958e6ce23dcf2f3b49af414362176fa762e0e4a3b30c10883388358cd403b"
+    static let idengineChecksum = "e50c4eb34f84f43f772715df57ecf49f87982f37b64a5938c37ef1314f76d90e"
+    static let FaceTecSDKChecksum = "5b69f7cc1622d2cac32b88bb7688add81c712427f134c3f5dd08485d3d1cce70"
+    static let iDenfyLivenessChecksum = "6f1ea12f9bcf74c463fb36516a4d6b56afb424d925e984b2f0a754fad3d9d661"
+    static let idenfyviewsChecksum = "70f83cab148c6617f23661781385a4ee8d192cb709993349b6536deceed94cad"
+    static let iDenfySDKChecksum = "df0f07d5826f3636cbeb1bee83c6db6f1fb8f07b3da424f28eedc03d22395d30"
+    static let idenfycoreChecksum = "3b3e4570225e9914650dfe2821fa4314c7724e7bdbc405a529df5a57d10a8720"
+    static let idenfyNFCReadingChecksum = "9c6a95a5c01f1aa1bd20e66c68b35f410f518230e9eb649d612e13b796d4103a"
+    static let openSSLChecksum = "ec005002f2531987e4f0787a17d6807cb8884f7a0dc9a3e739dc7f1be5e4c338"
 }
 
 let package = Package(
